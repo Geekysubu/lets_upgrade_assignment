@@ -1,0 +1,9 @@
+ create table customer (id int , Name varchar(10) ,  quantity int ,   product text );
+ insert into customer
+values
+ (1 ,"Shandeep", 5,  "mouse"),
+ (2 , "Sangram", 4 ,  "keyboard"),
+ (3 , "Asif",2 ,  "pendrivd"),
+ (4 ,"Uma", 1 , "moniter"),
+ (5 ,"Ramesh",1, "SSD"),
+ (6 ,"Aryan",1,  "HDD");
